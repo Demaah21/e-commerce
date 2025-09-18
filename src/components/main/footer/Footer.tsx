@@ -147,7 +147,7 @@ export default function Footer() {
 
         {/* Copyright Section */}
         <div className="mt-16 pt-8 text-center text-gray-400 text-sm border-t border-gray-700">
-          <p>&copy; Copyright Rimer 2022. All right reserved</p>
+          <p>&copy; Copyright 2025  All right reserved</p>
         </div>
       </div>
     </footer>
